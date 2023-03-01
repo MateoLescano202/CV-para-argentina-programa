@@ -1,0 +1,21 @@
+body{
+   background-color:aliceblue;
+}
+
+.fond{
+    width: auto;
+    height: max-content;
+    background-color:   #242323;
+    color: aliceblue;
+}
+
+#texto{
+    display: inline-block;
+}
+
+#dy {
+    background-color: #242323;
+    color: aliceblue;
+}
+
+
